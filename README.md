@@ -110,7 +110,27 @@ client/
 
 ## Screenshots
 
-<img width="1888" height="900" alt="history" src="https://github.com/user-attachments/assets/47f2eea2-dbe8-42d1-89f9-06af9441e257" />
-<img width="1888" height="900" alt="history" src="https://github.com/user-attachments/assets/90703df0-cded-4346-a22e-e8635a432412" />
+<img width="1902" height="910" alt="home" src="https://github.com/user-attachments/assets/aafaf399-113e-4d7e-821a-42003fcb71bb" />
+<img width="1892" height="922" alt="home1" src="https://github.com/user-attachments/assets/53b56e0a-f86b-47c0-a08c-ff97dc90dd63" />
+<img width="1920" height="914" alt="signin" src="https://github.com/user-attachments/assets/f8c5f72d-aa29-4450-8e92-dc6176f404d5" />
+<img width="1552" height="904" alt="dash" src="https://github.com/user-attachments/assets/dc738931-0c86-414f-92ed-df21606a6f87" />
+<img width="1896" height="909" alt="result" src="https://github.com/user-attachments/assets/56ba4ec2-3022-4656-b046-3184826b9b0e" />
+<img width="1863" height="913" alt="result1" src="https://github.com/user-attachments/assets/88842a9a-ee9c-4df6-867b-54c4bbe5c691" />
+<img width="1876" height="917" alt="result2" src="https://github.com/user-attachments/assets/6f91e5b6-6d65-4da4-8c96-666dcea80c50" />
+<img width="1902" height="902" alt="result3" src="https://github.com/user-attachments/assets/583687f2-f236-4ba6-81a1-5a1bf8e6ef1e" />
+<img width="1908" height="913" alt="result4" src="https://github.com/user-attachments/assets/ad2ca527-51c6-44dc-a4f9-c1ff750f61aa" />
+<img width="1892" height="907" alt="profile" src="https://github.com/user-attachments/assets/98bced47-d185-41e4-99f3-43adf7b328d9" />
+<img width="1888" height="900" alt="history" src="https://github.com/user-attachments/assets/fe451ad8-5470-4677-92ed-062ef8cca8a0" />
+
+
+
+
+
+
+
+
+
+
+
 
 
