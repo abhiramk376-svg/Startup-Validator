@@ -1,0 +1,20 @@
+# dependencies
+node_modules/
+
+# secrets - never upload these
+.env
+.env.local
+.env.*.local
+
+# build output
+dist/
+build/
+
+# logs
+*.log
+npm-debug.log*
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
