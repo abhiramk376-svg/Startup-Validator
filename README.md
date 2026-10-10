@@ -2,7 +2,7 @@
 
 An AI-powered business-model evaluator. Describe a startup idea and a team of AI agents researches the market, studies competitors, assesses risks, and produces a scored report on **sustainability, scalability and profitability**, with an **Ask AI** chat grounded in that report.
 
-Built with a **MERN stack**, **RAG** and a **LangGraph.js multi-agent workflow**, using only free services.
+Built with a **MERN stack**, **RAG** and a **LangGraph.js multi-agent workflow**.
 
 
 
