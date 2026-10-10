@@ -110,14 +110,7 @@ client/
 
 ## Screenshots
 
-| Home / New Evaluation | Live agent progress |
-|---|---|
-| ![New evaluation](docs/screenshots/new-evaluation.png) | ![Live progress](docs/screenshots/live-progress.png) |
+<img width="1888" height="900" alt="history" src="https://github.com/user-attachments/assets/47f2eea2-dbe8-42d1-89f9-06af9441e257" />
+<img width="1888" height="900" alt="history" src="https://github.com/user-attachments/assets/90703df0-cded-4346-a22e-e8635a432412" />
 
-| Executive Overview | Explainability Dashboard |
-|---|---|
-| ![Overview](docs/screenshots/overview.png) | ![Dashboard](docs/screenshots/dashboard.png) |
 
-| Evidence & Signals | Ask AI |
-|---|---|
-| ![Evidence](docs/screenshots/evidence.png) | ![Ask AI](docs/screenshots/ask-ai.png) |
