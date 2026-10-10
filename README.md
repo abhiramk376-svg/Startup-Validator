@@ -4,19 +4,7 @@ An AI-powered business-model evaluator. Describe a startup idea and a team of AI
 
 Built with a **MERN stack**, **RAG** and a **LangGraph.js multi-agent workflow**, using only free services.
 
-## Screenshots
 
-| Home / New Evaluation | Live agent progress |
-|---|---|
-| ![New evaluation](docs/screenshots/new-evaluation.png) | ![Live progress](docs/screenshots/live-progress.png) |
-
-| Executive Overview | Explainability Dashboard |
-|---|---|
-| ![Overview](docs/screenshots/overview.png) | ![Dashboard](docs/screenshots/dashboard.png) |
-
-| Evidence & Signals | Ask AI |
-|---|---|
-| ![Evidence](docs/screenshots/evidence.png) | ![Ask AI](docs/screenshots/ask-ai.png) |
 
 ## Features
 
@@ -59,7 +47,7 @@ Idea -> Market Research -> Competitor Analysis -> Risk Assessment -> Report Gene
 - Node.js 18+
 - A MongoDB database (local, or free MongoDB Atlas)
 - A free Gemini API key: https://aistudio.google.com/apikey
-- (Recommended) A free Groq API key: https://console.groq.com/keys
+-  A free Groq API key: https://console.groq.com/keys
 
 ### 1. Clone
 ```bash
@@ -104,9 +92,7 @@ Open http://localhost:5173.
 
 See `server/.env.example` for the full list. Never commit your real `.env`.
 
-## Free-tier limits
 
-The Gemini free tier allows only a few requests per minute and a small number per day per model. The server spaces out calls, caches embeddings, and switches to a backup model or provider when a limit is hit, so evaluations keep working.
 
 ## Project structure
 
@@ -122,6 +108,16 @@ client/
     components/  results/, chat/, common/
 ```
 
-## Author
+## Screenshots
 
-Abhiram K
+| Home / New Evaluation | Live agent progress |
+|---|---|
+| ![New evaluation](docs/screenshots/new-evaluation.png) | ![Live progress](docs/screenshots/live-progress.png) |
+
+| Executive Overview | Explainability Dashboard |
+|---|---|
+| ![Overview](docs/screenshots/overview.png) | ![Dashboard](docs/screenshots/dashboard.png) |
+
+| Evidence & Signals | Ask AI |
+|---|---|
+| ![Evidence](docs/screenshots/evidence.png) | ![Ask AI](docs/screenshots/ask-ai.png) |
